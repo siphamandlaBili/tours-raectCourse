@@ -32,9 +32,7 @@ const App = () => {
     
   },[])
   
-  // const tourDta = user.map((element)=>{
-  //   return <Tour data = {element} key={element.id}/>
-  // })
+  
   
  if(isLoading){
    return <main>
